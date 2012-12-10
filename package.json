@@ -1,0 +1,22 @@
+{
+  "name": "error-encode",
+  "version": "0.0.0",
+  "description": "Encode an error so it can be JSON serialized without losing information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mocha-ci/error-encode.git"
+  },
+  "keywords": [
+    "error",
+    "encode",
+    "JSON",
+    "mocha",
+    "test"
+  ],
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}

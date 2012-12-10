@@ -1,0 +1,14 @@
+{
+  "name": "error-encode",
+  "repo": "mocha-ci/error-encode",
+  "description": "Encode an error so it can be JSON serialized without losing information",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@ForbesLindesay"
+}
